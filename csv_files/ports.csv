@@ -1,0 +1,6 @@
+port name,port mode,port data_type
+r1,input, [3:0]
+r2,input, [3:0]
+ci,input,
+result,output, [3:0]
+carry,output,
